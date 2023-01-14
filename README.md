@@ -1,5 +1,5 @@
 # Tetris Game Design
-First, use command below to download pygame in cmd
+First, use command below to download pygame in cmd/r
 pip install pygame
 Then run Tetris.py to start the game 
 In the main menu, press Space to start.
